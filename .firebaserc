@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "simwama-86b50": {
+      "hosting": {
+        "bdAngular": [
+          "simwama-86b50"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "simwama-86b50"
+  }
+}
